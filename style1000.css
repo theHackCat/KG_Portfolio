@@ -1,0 +1,29 @@
+.container {
+  width: 1000px;
+  margin: auto;
+}
+
+.namedesc {
+  width: 65%;
+  margin-left: 57px;
+}
+
+.logo {
+  padding-left: 75px;
+}
+
+.featuredwork {
+  margin-left: 55px;
+}
+
+.rps h2{
+  margin-left: 35%;
+}
+
+.trees h2 {
+  margin-left: 51%;
+}
+
+.stack h2 {
+  margin-left: 39%;
+}

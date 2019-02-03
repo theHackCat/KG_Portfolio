@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.header {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px 10px;
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
+  padding-top: 25px;
+  padding-left: 40px;
+}
+
+.namedesc {
+  text-align: right;
+  width: 50%;
+  padding-left: 40px;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+.horizontal {
+  height: 7px;
+  width: 85%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mainimg {
+  height: 350px;
+  width: 85%;
+  display: block;
+  margin: auto;
+}
+
+.featured {
+  text-transform: uppercase;
+  font-size: 16px;
+  margin: auto;
+}
+
+.featuredwork {
+  width: 85%;
+  display: block;
+  margin: auto;
+}
+
+.rps img, .trees img, .stack img{
+  width: 60%;
+  height: 60%;
+  margin-left: 20%;
+}
+
+.rps h2, .trees h2, .stack h2 {
+  font-size: 14px;
+}
+
+.rps h2{
+  margin-left: 37%;
+}
+
+.trees h2 {
+  margin-left: 45%;
+}
+
+.stack h2 {
+  margin-left: 40%;
+}
